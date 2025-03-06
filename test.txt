@@ -1,2 +1,10 @@
 This is a test file to verify the Cursor Control extension.
 We will make changes to this file to test the auto-commit and push functionality. 
+
+
+Hello
+asdasd
+
+
+
+asdasdawida
